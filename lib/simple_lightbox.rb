@@ -20,4 +20,4 @@ module SimpleLightbox
 
 end
 
-ActionView::Base.send :include, SimpleLightbox::SimpleLightboxHelper
+ActionController::Base.helper(SimpleLightbox::SimpleLightboxHelper)
