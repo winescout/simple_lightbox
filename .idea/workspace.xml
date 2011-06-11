@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3af6f01-e9e1-4b57-ab42-238474a49c09" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/README.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/railtie.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/simple_lightbox.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/simple_lightbox/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/simple_lightbox/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/simple_lightbox.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/generators/simple_lightbox/install_generator.rb" afterPath="$PROJECT_DIR$/lib/generators/simple_lightbox/install_generator.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/simple_lightbox/version.rb" afterPath="$PROJECT_DIR$/lib/simple_lightbox/version.rb" />
     </list>
     <ignored path="simple_lightbox.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,19 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="install_generator.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="install_generator.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/install_generator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="0.2647059">
+            <state line="10" column="0" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="version.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="version.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/version.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+            <state line="2" column="3" selection-start="45" selection-end="45" vertical-scroll-proportion="0.03003003">
               <folding />
             </state>
           </provider>
@@ -111,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/spec/simple_lightbox/config/application.rb" />
         <option value="$PROJECT_DIR$/spec/simple_lightbox/lib/simple_lightbox/railtie.rb" />
         <option value="$PROJECT_DIR$/lib/simple_lightbox/Rakefile" />
         <option value="$PROJECT_DIR$/Rakefile" />
@@ -125,8 +118,9 @@
         <option value="$PROJECT_DIR$/lib/generators/templates/initializer.rb" />
         <option value="$PROJECT_DIR$/lib/generators/templates/simple_lightbox.css" />
         <option value="$PROJECT_DIR$/lib/generators/templates/simple_lightbox.js" />
-        <option value="$PROJECT_DIR$/lib/simple_lightbox/version.rb" />
         <option value="$PROJECT_DIR$/lib/generators/install_generator.rb" />
+        <option value="$PROJECT_DIR$/lib/generators/simple_lightbox/install_generator.rb" />
+        <option value="$PROJECT_DIR$/lib/simple_lightbox/version.rb" />
       </list>
     </option>
   </component>
@@ -156,8 +150,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Favorites" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,28 +202,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_lightbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_lightbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_lightbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -273,30 +245,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="b3af6f01-e9e1-4b57-ab42-238474a49c09" name="Default" comment="" />
       <created>1307749548854</created>
       <updated>1307749548854</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="24" width="1446" height="854" extended-state="6" />
+    <frame x="0" y="24" width="1920" height="1152" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24867725" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -334,44 +307,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="5" selection-start="22" selection-end="22" vertical-scroll-proportion="0.045045044">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/railtie.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="3" column="5" selection-start="22" selection-end="22" vertical-scroll-proportion="0.045045044" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.022123894">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="29" selection-end="29" vertical-scroll-proportion="0.022123894" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/simple_lightbox_helper.rb">
+    <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/templates/simple_lightbox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="29" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="2" column="35" selection-start="106" selection-end="106" vertical-scroll-proportion="0.04411765" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simple_lightbox.gemspec">
+    <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/templates/simple_lightbox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="7" column="0" selection-start="165" selection-end="165" vertical-scroll-proportion="0.15441176" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/simple_lightbox.rb">
@@ -381,30 +332,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/templates/simple_lightbox.js">
+    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/simple_lightbox_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="35" selection-start="106" selection-end="106" vertical-scroll-proportion="0.04411765">
-          <folding />
-        </state>
+        <state line="2" column="29" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/templates/simple_lightbox.css">
+    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/railtie.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="165" selection-end="165" vertical-scroll-proportion="0.15441176">
+        <state line="5" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple_lightbox.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/install_generator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/install_generator.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="0.2647059">
+        <state line="2" column="3" selection-start="45" selection-end="45" vertical-scroll-proportion="0.03003003">
           <folding />
         </state>
       </provider>
