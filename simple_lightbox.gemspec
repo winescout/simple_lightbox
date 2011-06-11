@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Edward Taupier"]
   s.email       = ["edtaupier@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
+  s.summary     = %q{Easy gem for displaying a lightbox with specified content using rjs helpers and lightbox js class.}
   s.description = %q{Simple jQuery UI based lightbox}
 
   s.rubyforge_project = "simple_lightbox"
