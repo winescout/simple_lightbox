@@ -34,10 +34,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="simple_lightbox.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="simple_lightbox.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/simple_lightbox.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.1051051">
+            <state line="1" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -46,7 +46,16 @@
       <file leaf-file-name="simple_lightbox_helper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/simple_lightbox_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+            <state line="11" column="7" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="railtie.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/railtie.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="32" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,10 +70,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="version.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="version.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/version.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+            <state line="3" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.045045044">
               <folding />
             </state>
           </provider>
@@ -101,12 +110,12 @@
         <option value="$PROJECT_DIR$/Rakefile" />
         <option value="$PROJECT_DIR$/lib/app/helpers/simple_lightbox/simple_lightbox_helper.rb" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/lib/simple_lightbox/railtie.rb" />
         <option value="$PROJECT_DIR$/lib/simple_lightbox/simple_lightbox.rb" />
-        <option value="$PROJECT_DIR$/lib/simple_lightbox/version.rb" />
-        <option value="$PROJECT_DIR$/lib/simple_lightbox/simple_lightbox_helper.rb" />
         <option value="$PROJECT_DIR$/simple_lightbox.gemspec" />
+        <option value="$PROJECT_DIR$/lib/simple_lightbox/simple_lightbox_helper.rb" />
+        <option value="$PROJECT_DIR$/lib/simple_lightbox/railtie.rb" />
         <option value="$PROJECT_DIR$/lib/simple_lightbox.rb" />
+        <option value="$PROJECT_DIR$/lib/simple_lightbox/version.rb" />
       </list>
     </option>
   </component>
@@ -286,20 +295,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/version.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/simple_lightbox_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simple_lightbox.gemspec">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
@@ -307,9 +302,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/simple_lightbox_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="333" selection-end="333" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/railtie.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/simple_lightbox.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.1051051">
+        <state line="1" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.045045044">
           <folding />
         </state>
       </provider>
