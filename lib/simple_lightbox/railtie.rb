@@ -5,7 +5,7 @@ module SimpleLightbox
   class Railtie < Rails::Railtie
 
     initializer "simple_lightbox.simple_lightbox_helper" do
-      ActionView::Base.send :include, SimpleLightboxHelper
+      ActionView::Helper.send :include, SimpleLightboxHelper
     end
 
   end
