@@ -2,6 +2,7 @@ module SimpleLightbox
 
   class InstallGenerator < Rails::Generators::Base
     source_root File.expand_path("../templates", __FILE__)
+    class_option :template_engine
 
     def copy_files
       template "simple_lightbox.css", "pubic/stylesheets/simple_lightbox.css"

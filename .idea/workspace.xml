@@ -44,9 +44,18 @@
         </entry>
       </file>
       <file leaf-file-name="install_generator.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/generators/install_generator.rb">
+        <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/install_generator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="75" selection-start="306" selection-end="306" vertical-scroll-proportion="0.15441176">
+            <state line="12" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="0.2647059">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="version.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/version.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -113,10 +122,10 @@
         <option value="$PROJECT_DIR$/lib/simple_lightbox/railtie.rb" />
         <option value="$PROJECT_DIR$/lib/simple_lightbox/simple_lightbox_helper.rb" />
         <option value="$PROJECT_DIR$/lib/simple_lightbox.rb" />
-        <option value="$PROJECT_DIR$/lib/simple_lightbox/version.rb" />
         <option value="$PROJECT_DIR$/lib/generators/templates/initializer.rb" />
         <option value="$PROJECT_DIR$/lib/generators/templates/simple_lightbox.css" />
         <option value="$PROJECT_DIR$/lib/generators/templates/simple_lightbox.js" />
+        <option value="$PROJECT_DIR$/lib/simple_lightbox/version.rb" />
         <option value="$PROJECT_DIR$/lib/generators/install_generator.rb" />
       </list>
     </option>
@@ -216,26 +225,8 @@
               <option name="myItemId" value="generators" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="simple_lightbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="simple_lightbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="generators" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -376,13 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/version.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.06437768">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simple_lightbox.gemspec">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="807" selection-end="807" vertical-scroll-proportion="0.0">
@@ -397,23 +381,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/templates/simple_lightbox.js">
+    <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/templates/simple_lightbox.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="35" selection-start="106" selection-end="106" vertical-scroll-proportion="0.04411765">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/templates/simple_lightbox.css">
+    <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/templates/simple_lightbox.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="0" selection-start="165" selection-end="165" vertical-scroll-proportion="0.15441176">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/generators/install_generator.rb">
+    <entry file="file://$PROJECT_DIR$/lib/simple_lightbox/version.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="75" selection-start="306" selection-end="306" vertical-scroll-proportion="0.15441176">
+        <state line="1" column="19" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/generators/simple_lightbox/install_generator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="357" selection-end="357" vertical-scroll-proportion="0.2647059">
           <folding />
         </state>
       </provider>
